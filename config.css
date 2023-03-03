@@ -1,6 +1,7 @@
 @font-face {
   font-family: lotus;
-  src: url(/fonts/B-Lotus/B\ Lotus\ Bold_0.ttf);
+  src: url(./B\ Lotus\ Bold_0.ttf);
+  src: url(./B\ Lotus_0.ttf);
 }
 
 body {
